@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I am Emilia! 👋
 
-<!--
-**emilia-bechta/emilia-bechta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 I am currently a Senior Sales Specialist excited to embark upon an adventure of an exciting career shift towards programming!  
 
-Here are some ideas to get you started:
+🎓 Infoshare Academy graduate as a Junior Frontend Developer (20 weeks, i.e. 240 hours of intense training)
+🌱 I am currently working on small projects of my own
+📄 Know about my experience [RESUME_LINK]
+📫 How to reach me: emila_bechta@o2.pl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/emilia-bechta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emilia-bechta&theme=shades-of-purple&show_icons=true" />
+</a>
+<a href="https://github.com/emilia-bechta/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilia-bechta&theme=shades-of-purple&layout=compact&langs_count=8&card_width=320" />
+</a>
