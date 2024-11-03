@@ -7,5 +7,13 @@
 📄 Know about my experience [RESUME_LINK]<br/>
 📫 How to reach me: emila_bechta@o2.pl or [@Emilia](https://www.linkedin.com/in/emilia-bechta-873712222/)<br/>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,github,react,typescript)](https://skillicons.dev)
 
-![Emilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilia-bechta&theme=cobalt&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emilia-bechta" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilia-bechta&layout=compact&langs_count=8&card_width=320" />
+</a>
+
