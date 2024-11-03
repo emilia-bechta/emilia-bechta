@@ -9,4 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,github,react,typescript)](https://skillicons.dev)
 
-![Emilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilia-bechta&show_icons=true&theme=radical)
+![Emilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilia-bechta&show_icons=true&theme=transparent)
