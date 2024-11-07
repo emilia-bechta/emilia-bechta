@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emilia!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Emilia!;" />
 </h1><br/>
 
 
-😎 I am currently a Senior Sales Specialist excited to embark upon an adventure of an exciting career shift towards programming!<br/>
+😎 I am currently a Senior Sales Specialist excited to embark upon an exciting adventure of a career shift towards programming!<br/>
 🎓 Infoshare Academy graduate as a Junior Frontend Developer (20 weeks, i.e. 240 hours of intense training)<br/>
 🌱 I am currently working on small projects of my own<br/>
 📄 Know about my experience [RESUME_LINK]<br/>
@@ -18,6 +18,11 @@
 
 ## 🔝 Top Contributed Repo<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=emilia-bechta&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+## 🦉Codewars
+
+[![Profile badge](https://www.codewars.com/users/emilia-bechta/badges/large)](https://www.codewars.com/users/marcelus33)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emilia-bechta&icon=0&color=0)](https://visitcount.itsvg.in)
