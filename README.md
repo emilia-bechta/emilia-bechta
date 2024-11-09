@@ -4,7 +4,7 @@
 
 
 😎 I am currently a Senior Sales Specialist excited to embark upon an exciting adventure of a career shift towards programming!<br/>
-🎓 Infoshare Academy graduate as a Junior Frontend Developer (8 months, i.e. 280 hours of intense training)<br/>
+🎓 Infoshare Academy graduate as a Junior Frontend Developer (8 months, i.e. ca. 440 hours of intense training)<br/>
 🌱 I am currently working on small projects of my own<br/>
 📄 Know about my experience [RESUME_LINK]<br/>
 📫 How to reach me: emila_bechta@o2.pl or [@Emilia](https://www.linkedin.com/in/emilia-bechta)<br/>
